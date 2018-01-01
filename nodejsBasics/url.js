@@ -8,6 +8,7 @@ console.log(
   url.parse('http://www.baidu.com/?aa=1&bb=2')
 )
 
+
 console.log(
   url.parse('http://www.baidu.com/?aa=1&bb=2', true)
 )
